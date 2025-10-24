@@ -1,0 +1,14 @@
+# Ignorar archivos innecesarios
+__pycache__/
+*.pyc
+*.pyo
+*.zip
+*.rar
+*.tar.gz
+*.ipynb_checkpoints/
+*.DS_Store
+*.tmp
+output/
+Soluciones/
+Soluciones/*
+.env

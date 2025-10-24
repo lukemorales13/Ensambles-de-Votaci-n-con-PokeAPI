@@ -1,0 +1,101 @@
+id,name,height,weight,base_experience,hp,attack,defense,special_attack,special_defense,speed,primary_type,secondary_type,num_abilities,abilities,power_score,strong
+362,glalie,15,2565,168,80,80,80,80,80,80,ice,,3,"inner-focus, ice-body, moody",480,0
+74,geodude,4,200,60,40,80,100,30,30,20,rock,ground,3,"rock-head, sturdy, sand-veil",300,0
+375,metang,12,2025,147,60,75,100,55,80,50,steel,psychic,2,"clear-body, light-metal",420,0
+156,quilava,9,190,142,58,64,58,80,65,80,fire,,2,"blaze, flash-fire",405,0
+105,marowak,10,450,149,60,80,110,50,80,45,ground,,3,"rock-head, lightning-rod, battle-armor",425,0
+395,empoleon,17,845,239,84,86,88,111,101,60,water,steel,2,"torrent, competitive",530,1
+378,regice,18,1750,261,80,50,100,100,200,50,ice,,2,"clear-body, ice-body",580,1
+125,electabuzz,11,300,172,65,83,57,95,85,105,electric,,2,"static, vital-spirit",490,0
+69,bellsprout,7,40,60,50,75,35,70,30,40,grass,poison,2,"chlorophyll, gluttony",300,0
+451,skorupi,8,120,66,40,50,90,30,55,65,poison,bug,3,"battle-armor, sniper, keen-eye",330,0
+10,caterpie,3,29,39,45,30,35,20,20,45,bug,,2,"shield-dust, run-away",195,0
+195,quagsire,14,750,151,95,85,85,65,65,35,water,ground,3,"damp, water-absorb, unaware",430,0
+407,roserade,9,145,232,60,70,65,125,105,90,grass,poison,3,"natural-cure, poison-point, technician",515,1
+85,dodrio,18,852,165,60,110,70,60,60,110,normal,flying,3,"run-away, early-bird, tangled-feet",470,0
+372,shelgon,11,1105,147,65,95,100,60,50,50,dragon,,2,"rock-head, overcoat",420,0
+389,torterra,22,3100,236,95,109,105,75,85,56,grass,ground,2,"overgrow, shell-armor",525,1
+496,servine,8,160,145,60,60,75,60,75,83,grass,,2,"overgrow, contrary",413,0
+31,nidoqueen,13,600,227,90,92,87,75,85,76,poison,ground,3,"poison-point, rivalry, sheer-force",505,1
+317,swalot,17,800,163,100,73,83,73,83,55,poison,,3,"liquid-ooze, sticky-hold, gluttony",467,0
+409,rampardos,16,1025,173,97,165,60,65,50,58,rock,,2,"mold-breaker, sheer-force",495,0
+491,darkrai,15,505,270,70,90,90,135,90,125,dark,,1,bad-dreams,600,1
+492,shaymin-land,2,21,270,100,100,100,100,100,100,grass,,1,natural-cure,600,1
+281,kirlia,8,202,97,38,35,35,65,55,50,psychic,fairy,3,"synchronize, trace, telepathy",278,0
+357,tropius,20,1000,161,99,68,83,72,87,51,grass,flying,3,"chlorophyll, solar-power, harvest",460,0
+77,ponyta,10,300,82,50,85,55,65,65,90,fire,,3,"run-away, flash-fire, flame-body",410,0
+462,magnezone,12,1800,241,70,70,115,130,90,60,electric,steel,3,"magnet-pull, sturdy, analytic",535,1
+498,tepig,5,99,62,65,63,45,45,45,45,fire,,2,"blaze, thick-fat",308,0
+212,scizor,18,1180,175,70,130,100,55,80,65,bug,steel,3,"swarm, technician, light-metal",500,1
+102,exeggcute,4,25,65,60,40,80,60,45,40,grass,psychic,2,"chlorophyll, harvest",325,0
+335,zangoose,13,403,160,73,115,60,60,60,90,normal,,2,"immunity, toxic-boost",458,0
+476,probopass,14,3400,184,60,55,145,75,150,40,rock,steel,3,"sturdy, magnet-pull, sand-force",525,1
+337,lunatone,10,1680,161,90,55,65,95,85,70,rock,psychic,1,levitate,460,0
+441,chatot,5,19,144,76,65,45,92,42,91,normal,flying,3,"keen-eye, tangled-feet, big-pecks",411,0
+174,igglybuff,3,10,42,90,30,15,40,20,15,normal,fairy,3,"cute-charm, competitive, friend-guard",210,0
+3,venusaur,20,1000,236,80,82,83,100,100,80,grass,poison,2,"overgrow, chlorophyll",525,1
+334,altaria,11,206,172,75,70,90,70,105,80,dragon,flying,2,"natural-cure, cloud-nine",490,0
+410,shieldon,5,570,70,30,42,118,42,88,30,rock,steel,2,"sturdy, soundproof",350,0
+71,victreebel,17,155,221,80,105,65,100,70,70,grass,poison,2,"chlorophyll, gluttony",490,0
+210,granbull,14,487,158,90,120,75,60,60,45,fairy,,3,"intimidate, quick-feet, rattled",450,0
+64,kadabra,13,565,140,40,35,30,120,70,105,psychic,,3,"synchronize, inner-focus, magic-guard",400,0
+385,jirachi,3,11,270,100,100,100,100,100,100,steel,psychic,1,serene-grace,600,1
+94,gengar,15,405,225,60,65,60,130,75,110,ghost,poison,1,cursed-body,500,1
+486,regigigas,37,4200,302,110,160,110,80,110,100,normal,,1,slow-start,670,1
+186,politoed,11,339,225,90,75,75,90,100,70,water,,3,"water-absorb, damp, drizzle",500,1
+34,nidoking,14,620,227,81,102,77,85,75,85,poison,ground,3,"poison-point, rivalry, sheer-force",505,1
+78,rapidash,17,950,175,65,100,70,80,80,105,fire,,3,"run-away, flash-fire, flame-body",500,1
+1,bulbasaur,7,69,64,45,49,49,65,65,45,grass,poison,2,"overgrow, chlorophyll",318,0
+12,butterfree,11,320,178,60,45,50,90,80,70,bug,flying,2,"compound-eyes, tinted-lens",395,0
+416,vespiquen,12,385,166,70,80,102,80,102,40,bug,flying,2,"pressure, unnerve",474,0
+23,ekans,20,69,58,35,60,44,40,54,55,poison,,3,"intimidate, shed-skin, unnerve",288,0
+73,tentacruel,16,550,180,80,70,65,80,120,100,water,poison,3,"clear-body, liquid-ooze, rain-dish",515,1
+183,marill,4,85,88,70,20,50,20,50,40,water,fairy,3,"thick-fat, huge-power, sap-sipper",250,0
+132,ditto,3,40,101,48,48,48,48,48,48,normal,,2,"limber, imposter",288,0
+411,bastiodon,13,1495,173,60,52,168,47,138,30,rock,steel,2,"sturdy, soundproof",495,0
+194,wooper,4,85,42,55,45,45,25,25,15,water,ground,3,"damp, water-absorb, unaware",210,0
+56,mankey,5,280,61,40,80,35,35,45,70,fighting,,3,"vital-spirit, anger-point, defiant",305,0
+149,dragonite,22,2100,270,91,134,95,100,100,80,dragon,flying,2,"inner-focus, multiscale",600,1
+19,rattata,3,35,51,30,56,35,25,35,72,normal,,3,"run-away, guts, hustle",253,0
+205,forretress,12,1258,163,75,90,140,60,60,40,bug,steel,2,"sturdy, overcoat",465,0
+79,slowpoke,12,360,63,90,65,65,40,40,15,water,psychic,3,"oblivious, own-tempo, regenerator",315,0
+495,snivy,6,81,62,45,45,55,45,55,63,grass,,2,"overgrow, contrary",308,0
+263,zigzagoon,4,175,56,38,30,41,30,41,60,normal,,3,"pickup, gluttony, quick-feet",240,0
+324,torkoal,5,804,165,70,85,140,85,70,20,fire,,3,"white-smoke, drought, shell-armor",470,0
+484,palkia,42,3360,306,90,120,100,150,120,100,water,dragon,2,"pressure, telepathy",680,1
+80,slowbro,16,785,172,95,75,110,100,80,30,water,psychic,3,"oblivious, own-tempo, regenerator",490,0
+40,wigglytuff,10,120,196,140,70,45,85,50,45,normal,fairy,3,"cute-charm, competitive, frisk",435,0
+452,drapion,13,615,175,70,90,110,60,75,95,poison,dark,3,"battle-armor, sniper, keen-eye",500,1
+47,parasect,10,295,142,60,95,80,60,80,30,bug,grass,3,"effect-spore, dry-skin, damp",405,0
+239,elekid,6,235,72,45,63,37,65,55,95,electric,,2,"static, vital-spirit",360,0
+392,infernape,12,550,240,76,104,71,104,71,108,fire,fighting,2,"blaze, iron-fist",534,1
+353,shuppet,6,23,59,44,75,35,63,33,45,ghost,,3,"insomnia, frisk, cursed-body",295,0
+342,crawdaunt,11,328,164,63,120,85,90,55,55,water,dark,3,"hyper-cutter, shell-armor, adaptability",468,0
+278,wingull,6,95,54,40,30,30,55,30,85,water,flying,3,"keen-eye, hydration, rain-dish",270,0
+291,ninjask,8,120,160,61,90,45,50,50,160,bug,flying,2,"speed-boost, infiltrator",456,0
+318,carvanha,8,208,61,45,90,20,65,20,65,water,dark,2,"rough-skin, speed-boost",305,0
+305,lairon,9,1200,151,60,90,140,50,50,40,steel,rock,3,"sturdy, rock-head, heavy-metal",430,0
+269,dustox,12,316,173,60,50,70,50,90,65,bug,poison,2,"shield-dust, compound-eyes",385,0
+70,weepinbell,10,64,137,65,90,50,85,45,55,grass,poison,2,"chlorophyll, gluttony",390,0
+456,finneon,4,70,66,49,49,56,49,61,66,water,,3,"swift-swim, storm-drain, water-veil",330,0
+466,electivire,18,1386,243,75,123,67,95,85,95,electric,,2,"motor-drive, vital-spirit",540,1
+155,cyndaquil,5,79,62,39,52,43,60,50,65,fire,,2,"blaze, flash-fire",309,0
+83,farfetchd,8,150,132,52,90,55,58,62,60,normal,flying,3,"keen-eye, inner-focus, defiant",377,0
+478,froslass,13,266,168,70,80,70,80,70,110,ice,ghost,2,"snow-cloak, cursed-body",480,0
+173,cleffa,3,30,44,50,25,28,45,55,15,fairy,,3,"cute-charm, magic-guard, friend-guard",218,0
+322,numel,7,240,61,60,60,40,65,45,35,fire,ground,3,"oblivious, simple, own-tempo",305,0
+91,cloyster,15,1325,184,50,95,180,85,45,70,water,ice,3,"shell-armor, skill-link, overcoat",525,1
+181,ampharos,14,615,230,90,75,85,115,90,55,electric,,2,"static, plus",510,1
+415,combee,3,55,49,30,30,42,30,42,70,bug,flying,2,"honey-gather, hustle",244,0
+313,volbeat,7,177,151,65,73,75,47,85,85,bug,,3,"illuminate, swarm, prankster",430,0
+279,pelipper,12,280,154,60,50,100,95,70,65,water,flying,3,"keen-eye, drizzle, rain-dish",440,0
+382,kyogre,45,3520,302,100,100,90,150,140,90,water,,1,drizzle,670,1
+473,mamoswine,25,2910,239,110,130,80,70,60,80,ice,ground,3,"oblivious, snow-cloak, thick-fat",530,1
+363,spheal,8,395,58,70,40,50,55,50,25,ice,water,3,"thick-fat, ice-body, oblivious",290,0
+325,spoink,7,306,66,60,25,35,70,80,60,psychic,,3,"thick-fat, own-tempo, gluttony",330,0
+432,purugly,10,438,158,71,82,64,64,59,112,normal,,3,"thick-fat, own-tempo, defiant",452,0
+348,armaldo,15,682,173,75,125,100,70,80,45,rock,bug,2,"battle-armor, swift-swim",495,0
+87,dewgong,17,1200,166,90,70,80,70,95,70,water,ice,3,"thick-fat, hydration, ice-body",475,0
+76,golem,14,3000,223,80,120,130,55,65,45,rock,ground,3,"rock-head, sturdy, sand-veil",495,0
+439,mime-jr,6,130,62,20,25,45,70,90,60,psychic,fairy,3,"soundproof, filter, technician",310,0
+16,pidgey,3,18,50,40,45,40,35,35,56,normal,flying,3,"keen-eye, tangled-feet, big-pecks",251,0
