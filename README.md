@@ -262,10 +262,10 @@ Se entrenaron **cuatro clasificadores** usando scikit-learn, cada uno integrado 
 
 | Modelo | Accuracy | Precision | Recall | F1-Score | Observaciones |
 |--------|----------|-----------|--------|----------|---------------|
-| **Árbol de Decisión** | 1.00 | 1.00 | 1.00 | 1.00 | Posible sobreajuste |
-| **KNN** | 1.00 | 1.00 | 1.00 | 1.00 | Posible sobreajuste |
-| **SVM** | 0.93 | 1.00 | 0.72 | 0.84 | Balance precision/recall |
-| **Regresión Logística** | 0.91 | 0.90 | 0.72 | 0.80 | Modelo más conservador |
+| **Árbol de Decisión** | 1.00 | 1.00 | 1.00 | 1.00 |
+| **KNN** | 1.00 | 1.00 | 1.00 | 1.00 |
+| **SVM** | 0.93 | 1.00 | 0.72 | 0.84 |
+| **Regresión Logística** | 0.91 | 0.90 | 0.72 | 0.80 |
 
 ### Preprocesamiento
 
@@ -326,7 +326,6 @@ Se implementaron **manualmente** (sin usar `VotingClassifier` de scikit-learn) t
 - Mejor balance entre precisión y recall
 - Incorpora el desempeño individual de cada modelo
 - Mayor estabilidad en predicciones
-- Reduce el impacto de modelos con sobreajuste
 
 
 
@@ -362,7 +361,7 @@ id,y_pred,EquipoNombre,VotacionTipo
 
 **Dataset funcional:** Se construyó exitosamente desde PokeAPI sin datasets precargados
 
-**Alto desempeño individual:** Los modelos base mostraron excelentes métricas (algunos con posible sobreajuste)
+**Alto desempeño individual:** Los modelos base mostraron excelentes métricas 
 
 **Mejora mediante ensambles:** La votación ponderada mejoró la estabilidad sin sacrificar precisión
 
@@ -468,7 +467,7 @@ Si encuentras algún bug o tienes sugerencias:
 | **Luis Enrique Morales Flores** | [@lukemorales13](https://github.com/lukemorales13) | Líder del equipo, desarrollo principal |
 | **Emil Ehecatl Sánchez Olsen** | [@Emilehecatlsanchez](https://github.com/Emilehecatlsanchez) | Implementación de ensambles |
 | **Fabián Herrera Barrón** | [@FabianHeBa](https://github.com/FabianHeBa) | Implementación de ensambles |
-| **Vania Janet Raya Ríos** | [@Vania-Janet](https://github.com/Vania-Janet) | Análisis de datos, documentación y teoría de ensambles |
+| **Vania Janet Raya Ríos** | [@Vania-Janet](https://github.com/Vania-Janet) | Análisis de datos y teoría de ensambles |
 
 ---
 
