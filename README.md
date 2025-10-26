@@ -1,4 +1,5 @@
 # Laboratorio ML P7 — ¡Atrapa el mejor modelo!
+# Equipo Charmander
 
 ## Descripción del proyecto
 
